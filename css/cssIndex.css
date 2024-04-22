@@ -1,0 +1,60 @@
+header {
+    background-color: #f89bee;
+    padding: 1%;
+    text-align: right;
+  }
+  
+  h1 {
+    text-align: left;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+   
+    
+  }
+
+  nav ul {
+    
+  }
+  
+  .clearflix::after {
+    content: "";
+    clear: both;
+    display: table; 
+    
+}
+
+img {
+    float: left;
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 8%;
+}
+
+.image-container {
+    float: left;
+    width: 33.33%;
+    text-align: justify;
+    
+   
+}
+
+
+
+.tamanho {
+    text-align: justify;
+    margin-right: 10%;
+    margin-left: 3%;
+    font-size: 120%;
+}
+
+.caraca {
+    text-align: center;
+    word-spacing: 150px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+.espaco {
+    word-spacing: 5px;
+}
+
